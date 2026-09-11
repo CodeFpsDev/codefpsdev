@@ -17,5 +17,5 @@
 
 ### 🚀 Featured project
 - **[Vizzu Studio](https://codefpsdev.github.io/vizzustudio/)** — sitio web personal y galería con flyers.
-- **[Vizzu Studio](https://codefpsdev.github.io/scalat/)** — sitio web personal para trabajos.
+- **[Sclat Tech](https://codefpsdev.github.io/scalat/)** — sitio web personal para trabajos.
 
